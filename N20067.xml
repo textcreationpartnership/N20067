@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026290_0000_0FCFA93046939800"/>
-            <pb facs="tcp:026290_0001_0FCF8AE517DD8710" rendition="simple:additions"/>
+            <pb facs="unknown:026290_0000_0FCFA93046939800"/>
+            <pb facs="unknown:026290_0001_0FCF8AE517DD8710"
+                rendition="simple:additions"/>
             <p>THE ORIGIN OF EVIL. AN ELEGY.</p>
             <q>
                <lg>
@@ -144,7 +145,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:026290_0002_0FCFA92E55067DF8"/>
+            <pb facs="unknown:026290_0002_0FCFA92E55067DF8"/>
             <head>THE ORIGIN OF EVIL. AN ELEGY.</head>
             <div type="proem">
                <head>PROEM.</head>
@@ -170,7 +171,7 @@
                </lg>
             </div>
             <div type="elegy">
-               <pb facs="tcp:026290_0003_0FCFA92CD3B9D5D0"/>
+               <pb facs="unknown:026290_0003_0FCFA92CD3B9D5D0"/>
                <head>AN ELEGY.</head>
                <lg>
                   <l>IN the firſt ſtillneſs of the even,</l>
@@ -205,7 +206,7 @@
                   <l>The firſt of men in ſhape and ſize!</l>
                </lg>
                <lg>
-                  <pb n="5" facs="tcp:026290_0004_0FCF8AE0752116E8"/>
+                  <pb n="5" facs="unknown:026290_0004_0FCF8AE0752116E8"/>
                   <l>As <hi>Eve</hi> caſt her arms ſo ſlender,</l>
                   <l>His brawny cheſt to fondly ſtroke;</l>
                   <l>She ſeem'd an ivy tendril tender</l>
@@ -236,7 +237,7 @@
                   <l>Reſtrain'd by the divine command.</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:026290_0005_0FCFA92B6CB6ABA8"/>
+                  <pb n="6" facs="unknown:026290_0005_0FCFA92B6CB6ABA8"/>
                   <l>At her guilty touch the tree ſeem'd</l>
                   <l>Againſt the blue arch'd ſky to knock;</l>
                   <l>With nervous vigour every branch beam'd,</l>
@@ -267,7 +268,7 @@
                   <l>She glue'd her glowing lips to his.</l>
                </lg>
                <lg>
-                  <pb n="7" facs="tcp:026290_0006_0FCF8B039F47B890"/>
+                  <pb n="7" facs="unknown:026290_0006_0FCF8B039F47B890"/>
                   <l>"Threaten'd death will ſoon o'ertake me,</l>
                   <l>"If this forbidden tree I pluck,</l>
                   <l>"But life itſelf will ſoon forſake me,</l>
@@ -298,7 +299,7 @@
                   <l>Reptile and Inſect joy'd their loves.</l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:026290_0007_0FCF8ADEE59060F8"/>
+                  <pb n="8" facs="unknown:026290_0007_0FCF8ADEE59060F8"/>
                   <l>Love's fierce fire ſeiz'd e'en the poſies,</l>
                   <l>Which deck'd the gay enamell'd mead,</l>
                   <l>Amorous pinks and wanton roſes,</l>
